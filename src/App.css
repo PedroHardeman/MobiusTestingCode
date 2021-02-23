@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-header > input {
+  margin: 1rem;
+  width: 50%;
+}
+
+.App-header > button {
+  margin: 1rem;
+}
+
+.Logo-header {
+  background-color: #282c34;
+}
+
+.Logo-header > img {
+  height: 2rem;
+}
